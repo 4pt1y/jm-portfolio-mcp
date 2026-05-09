@@ -44,7 +44,7 @@ This launches the MCP Inspector in your browser where you can call tools interac
 
 ## Why MCP?
 
-MCP (Model Context Protocol) is a standardized protocol that connects AI agents to external tools and data sources — think of it as the USB standard for AI integrations. This server exposes GitHub data in a way that any MCP-compatible agent can consume without custom integration work.
+MCP (Model Context Protocol) is a standardized protocol that connects AI agents to external tools and data sources. Think of it as the USB standard for AI integrations. This server exposes GitHub data in a way that any MCP-compatible agent can consume without custom integration work.
 
 ## Author
 
