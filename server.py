@@ -1,6 +1,9 @@
 import os
 from github import Github, Auth
 from mcp.server.fastmcp import FastMCP
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Initialize
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
